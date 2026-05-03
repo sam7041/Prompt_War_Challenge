@@ -84,3 +84,4 @@ To host this on **Render** (Recommended for Hackathons):
 3.  **Setup `.env`:** Copy `.env.example` to `.env` and add your keys.
 4.  **Run:** `python app.py`
 5.  **Test:** `pytest`
+
